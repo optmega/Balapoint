@@ -1,0 +1,6 @@
+framework module Pods_Jundera {
+  umbrella header "Pods-Jundera-umbrella.h"
+
+  export *
+  module * { export * }
+}
